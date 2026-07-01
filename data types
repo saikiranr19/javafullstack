@@ -1,0 +1,51 @@
+public class AdditionAllDataTypes {
+    public static void main(String[] args) {
+
+        // byte
+        byte b1 = 10;
+        byte b2 = 20;
+        byte bSum = (byte) (b1 + b2);
+        System.out.println("Byte Addition: " + bSum);
+
+        // short
+        short s1 = 1000;
+        short s2 = 2000;
+        short sSum = (short) (s1 + s2);
+        System.out.println("Short Addition: " + sSum);
+
+        // int
+        int i1 = 50000;
+        int i2 = 25000;
+        int iSum = i1 + i2;
+        System.out.println("Int Addition: " + iSum);
+
+        // long
+        long l1 = 1000000000L;
+        long l2 = 2000000000L;
+        long lSum = l1 + l2;
+        System.out.println("Long Addition: " + lSum);
+
+        // float
+        float f1 = 12.5f;
+        float f2 = 7.5f;
+        float fSum = f1 + f2;
+        System.out.println("Float Addition: " + fSum);
+
+        // double
+        double d1 = 15.75;
+        double d2 = 24.25;
+        double dSum = d1 + d2;
+        System.out.println("Double Addition: " + dSum);
+
+        // char (addition using ASCII/Unicode values)
+        char c1 = 'A';
+        char c2 = 'B';
+        int cSum = c1 + c2;
+        System.out.println("Char Addition (ASCII): " + cSum);
+
+        // boolean cannot be added
+        boolean x = true;
+        boolean y = false;
+        System.out.println("Boolean Addition: Not allowed in Java");
+    }
+}
