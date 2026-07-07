@@ -1,0 +1,14 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Start small. Ship something.");
+    }
+}
+class Vehicle {
+    String brand = "Ford";
+    public void honk() {
+        System.out.println("Beep beep!");
+    }
+}
