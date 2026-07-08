@@ -1,0 +1,27 @@
+class Parent {
+    
+    //Methods of parent class
+    void Print() { System.out.println("parent class"); }
+}
+
+class Subclass1 extends Parent {
+    
+    void Print() { System.out.println("subclass1"); }
+}
+
+
+class Subclass2 extends Parent {
+    void Print() { System.out.println("subclass2"); }
+}
+
+class Main {
+    public static void main(String[] args)
+    {
+        Parent a;
+        a = new Subclass1();
+        a.Print();
+        
+        a = new Subclass2();
+        a.Print();
+    }
+}
