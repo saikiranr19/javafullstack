@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Details</title>
+</head>
+<body>
+
+    <center>
+        <h1>Student Details</h1>
+    </center>
+
+    <hr>
+
+    <table border="1" cellpadding="10" cellspacing="0" align="center">
+        <tr>
+            <th>Field</th>
+            <th>Details</th>
+        </tr>
+
+        <tr>
+            <td>Name</td>
+            <td>Saikiran Reddy</td>
+        </tr>
+
+        <tr>
+            <td>Roll Number</td>
+            <td>23IT001</td>
+        </tr>
+
+        <tr>
+            <td>Course</td>
+            <td>B.Tech</td>
+        </tr>
+
+        <tr>
+            <td>Branch</td>
+            <td>Information Technology</td>
+        </tr>
+
+        <tr>
+            <td>Year</td>
+            <td>4th Year</td>
+        </tr>
+
+        <tr>
+            <td>College</td>
+            <td>XYZ Engineering College</td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td>Sai@example.com</td>
+        </tr>
+
+        <tr>
+            <td>Phone</td>
+            <td>9876543210</td>
+        </tr>
+
+        <tr>
+            <td>Address</td>
+            <td>Hyderabad, Telangana</td>
+        </tr>
+
+        <tr>
+            <td>Skills</td>
+            <td>Java, Python, HTML, CSS</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <center>
+        <small>&copy; 2026 Student Information</small>
+    </center>
+
+</body>
+</html>
+	   
