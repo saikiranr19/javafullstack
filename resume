@@ -1,0 +1,29 @@
+html>
+<head>
+<title>Resume</title>
+</head>
+<h1>Contact Information</h1>
+<ul>
+<li>
+Name:Chepyala SaiKiranReddy</li>
+<li>Phone No: 9121065064</li>
+<li>Email:sai926897@gmail.com</li>
+<li>Location:Hydrabad</li>
+</ul>
+<hr>
+<h1>Summary</h5>
+<p>Highly motivated and detail-oriented Computer Science graduate with hands-on training in modern software development and problem-solving. Proven ability to build responsive web applications and write clean, efficient code. Eager to contribute to a collaborative development team and drive organizational success.</p>
+<hr>
+<h1>Technical Skills</h1>
+<ol>
+<li>Python</li>
+<li>java</li>
+<li>HTML</li>
+</ol>
+<hr>
+<h1>Education</h1>
+<ul>
+<li>Sri Chaitanya Techno School</li>
+<li>Sri Chaitanya Juniour Collage(Inter)</li>
+<li>Kalasalingam University(B.Tech IT)</li>
+</html>
